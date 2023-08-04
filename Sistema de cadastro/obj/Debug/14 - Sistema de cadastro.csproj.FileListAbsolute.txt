@@ -1,0 +1,22 @@
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\14 - Sistema de cadastro\14 - Sistema de cadastro\bin\Debug\14 - Sistema de cadastro.exe.config
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\14 - Sistema de cadastro\14 - Sistema de cadastro\bin\Debug\14 - Sistema de cadastro.exe
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\14 - Sistema de cadastro\14 - Sistema de cadastro\bin\Debug\14 - Sistema de cadastro.pdb
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\14 - Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\14 - Sistema de cadastro.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\14 - Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\14 - Sistema de cadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\14 - Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\_14___Sistema_de_cadastro.Properties.Resources.resources
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\14 - Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\14 - Sistema de cadastro.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\14 - Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\14 - Sistema de cadastro.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\14 - Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\14 - Sistema de cadastro.exe
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\14 - Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\14 - Sistema de cadastro.pdb
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\14 - Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\_14___Sistema_de_cadastro.Cadastro.resources
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de cadastro\14 - Sistema de cadastro\bin\Debug\14 - Sistema de cadastro.exe.config
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de cadastro\14 - Sistema de cadastro\bin\Debug\14 - Sistema de cadastro.exe
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de cadastro\14 - Sistema de cadastro\bin\Debug\14 - Sistema de cadastro.pdb
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\14 - Sistema de cadastro.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\14 - Sistema de cadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\_14___Sistema_de_cadastro.Cadastro.resources
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\_14___Sistema_de_cadastro.Properties.Resources.resources
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\14 - Sistema de cadastro.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\14 - Sistema de cadastro.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\14 - Sistema de cadastro.exe
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de cadastro\14 - Sistema de cadastro\obj\Debug\14 - Sistema de cadastro.pdb
